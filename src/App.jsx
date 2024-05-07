@@ -6,6 +6,7 @@ import Discription from './component/Discription.jsx'
 import Discription2 from './component/Discription2.jsx'
 import Createaccount from './component/Createaccount.jsx'
 import ChooseUs from './component/ChooseUs.jsx'
+import Review from './component/Review.jsx'
 
 function App() {
 
@@ -32,6 +33,8 @@ function App() {
     <Discription2 heading="Two Way Communication" paragraph="Employers may quickly calculate the number of hours worked by simply tracking employee attendance in real time. The payroll system incorporates this data with ease, guaranteeing exact and timely salary calculations. Workers have rapid access to their attendance data, which promotes trust and transparency in the payment process." image="./img/hero-sub6.png"/>
     
     <ChooseUs />
+
+    <Review />
     </>
   )
 }
