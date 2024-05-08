@@ -7,6 +7,7 @@ import Discription2 from './component/Discription2.jsx'
 import Createaccount from './component/Createaccount.jsx'
 import ChooseUs from './component/ChooseUs.jsx'
 import Review from './component/Review.jsx'
+import Downloadsection from './component/Downloadsection.jsx'
 
 function App() {
 
@@ -35,6 +36,8 @@ function App() {
     <ChooseUs />
 
     <Review />
+
+    <Downloadsection />
     </>
   )
 }

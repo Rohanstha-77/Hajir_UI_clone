@@ -4,9 +4,9 @@ const NavBar = () => {
   return (
     <>
         <header className='bg-slate-50'> 
-            <div className='flex justify-between items-center m-auto' style={{height: "95px",width: "1330px"}}>
+            <div className='flex justify-between items-center mx-24' style={{height: "95px"}}>
                 <div>
-                    <img src="./img/logo-hajir.png" alt="" className='h-16 w-24' />
+                    <img src="./img/logo-hajir.png" alt="" className='h-16' />
                 </div>
                 <ul className='flex justify-around'>
                     <li className='ml-6'>About Us</li>

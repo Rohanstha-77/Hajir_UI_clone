@@ -13,7 +13,7 @@ const HeroSection = () => {
                 <div className='flex space-x-4 mt-6'>
                     <div className='flex'>
                         <div className='w-6'>
-                            <img src="./img/BasicFeatures.png" alt="" />
+                            <img src="./img/BasicFeatures.png" alt="" className='object-contain' />
                         </div>
                         <p className='ml-3'>
                             <span className='block text-2xl'>Basic Feature</span>
