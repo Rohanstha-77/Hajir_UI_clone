@@ -12,8 +12,8 @@ const HeroSection = () => {
                 </div>
                 <div className='flex space-x-4 mt-6'>
                     <div className='flex'>
-                        <div className='w-6'>
-                            <img src="./img/BasicFeatures.png" alt="" className='object-contain' />
+                        <div className='w-6 object-contain'>
+                            <img src="./img/BasicFeatures.png" alt="" />
                         </div>
                         <p className='ml-3'>
                             <span className='block text-2xl'>Basic Feature</span>
